@@ -72,3 +72,5 @@ Route::get('/', function (SwapInterface $swap) {
 
 [downloads-url]: https://packagist.org/packages/florianv/laravel-swap
 [downloads-image]: https://img.shields.io/packagist/dt/florianv/laravel-swap.svg
+
+Trioangle Technologies Pvt. Ltd.,
